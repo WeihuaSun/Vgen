@@ -16,7 +16,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/WeihuaSun/Vgen.git
-cd vgen
+cd Vgen
 ```
 
 Configure database connection information in `config.py`.
