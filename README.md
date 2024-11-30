@@ -15,7 +15,7 @@ Before using Vgen, make sure you have the following prerequisites installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-repository/vgen.git
+git clone https://github.com/WeihuaSun/Vgen.git
 cd vgen
 ```
 
